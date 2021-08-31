@@ -1,0 +1,13 @@
+C:\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.csprojAssemblyReference.cache
+C:\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.AssemblyInfoInputs.cache
+C:\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.AssemblyInfo.cs
+C:\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.csproj.CoreCompileInputs.cache
+C:\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.exe
+C:\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.deps.json
+C:\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.runtimeconfig.json
+C:\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.runtimeconfig.dev.json
+C:\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.dll
+C:\workspace\DIO.Animes\bin\Debug\netcoreapp3.1\DIO.Animes.pdb
+C:\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.dll
+C:\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.pdb
+C:\workspace\DIO.Animes\obj\Debug\netcoreapp3.1\DIO.Animes.genruntimeconfig.cache
